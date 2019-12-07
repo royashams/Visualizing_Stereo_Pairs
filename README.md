@@ -17,12 +17,11 @@ Final project for CSC420 introduction to computer vision course at the Universit
 - /MiddleburyDisparity contains original noisy disparity map from the Middlebury 3 Evaluation
 - /StereoBM_Disparity contains original noisy disparity map from SteroBM OpenCV function
 - All images with a Gaussian blur are under /Blurred
-- Video and blender files of final results using disparity are in /3D_model_results.
+- Blender files of final results using disparity are in /3D_model_results.
 
 
 ## Important Notes
 - Before running the Middlebury Evaluation, make sure that `imagemagick` is installed. 
-- Video and blender files of final results using disparity are in 3D_model_results.
 - The Gaussian kernel size in option 2 must be an odd number. Larger numbers work better for noisier images. 
 - The code (main.py) automatically generates all outputted images in this assignment. The 3D models were manually created using Blender.
 
