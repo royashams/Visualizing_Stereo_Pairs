@@ -1,0 +1,156 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/descriptor.cpp
+descriptor.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/descriptor.h
+filter.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/filter.h
+emmintrin.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/descriptor.h
+iostream
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
+-
+stdint.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/elas.cpp
+elas.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/elas.h
+math.h
+-
+descriptor.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/descriptor.h
+triangle.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/triangle.h
+matrix.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/matrix.h
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/elas.h
+iostream
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+vector
+-
+emmintrin.h
+-
+stdint.h
+-
+timer.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/timer.h
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/filter.cpp
+stdio.h
+-
+string.h
+-
+cassert
+-
+filter.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/filter.h
+stdint.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/filter.h
+emmintrin.h
+-
+pmmintrin.h
+-
+stdint.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/image.h
+cstdlib
+-
+climits
+-
+cstring
+-
+fstream
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/main.cpp
+iostream
+-
+time.h
+-
+elas.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/elas.h
+image.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/image.h
+math.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/matrix.cpp
+matrix.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/matrix.h
+math.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/matrix.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+iostream
+-
+vector
+-
+stdint.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/timer.h
+iostream
+-
+iomanip
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+vector
+-
+string
+-
+sys/time.h
+-
+stdint.h
+-
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/triangle.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+triangle.h
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/triangle.h
+
+/Users/royashams/Documents/OneDrive - University of Toronto/Fall 2019/CSC420/FINAL PROJECT/Stereoscopy-CSC420-Final/MiddEval3/alg-ELAS/src/triangle.h
+
